@@ -26,4 +26,12 @@
   font-size:100px;
   color: blue;
   text-align: center;
+  background-image: url('../img/hiv9.jpg');
+}
+
+
+
+.top-gem{
+  padding: 20px;
+  background-color: #2C4C4C;
 }
