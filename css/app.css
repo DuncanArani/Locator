@@ -34,4 +34,26 @@
 .top-gem{
   padding: 20px;
   background-color: #2C4C4C;
+  color: white;
+}
+#bt-gem{
+  float: right;
+  background-color:blue;
+  color: white;
+}
+#gem{
+  background-image: url('../img/med.jpg');
+
+
+}
+#table{
+  width: 100%;
+  margin-left: 5px;
+}
+#row1-gem{
+  font-size: 18px;
+  background-color:#CF00B9;
+  border: 0px;
+  margin-top: 15px;
+  text-align: center;
 }
