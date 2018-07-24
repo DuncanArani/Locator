@@ -1,16 +1,20 @@
 body {
-  font-size: 15px;
+  font-size: 30px;
   background-color: plum;
   background-image: url("../img/load.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100%;
-
+  padding-right: 2px;
+  padding-left: 2px;
+  padding-bottom: 2px;
+  padding-top: 2px;
 }
+
 #sonya {
-font-family: fantasy;
-text-align: center;
-background: #FFF;
+  font-family: fantasy;
+  text-align: center;
+  background: #FFF;
 }
 
 .usonga {
@@ -18,13 +22,13 @@ background: #FFF;
   font-family: fantasy;
   font-size: 24px;
   background: powderblue;
-
 }
+
 .fear {
-font-size: 24px;
-font-family: fantasy;
-font-style: italic;
-background: powderblue;
+  font-size: 24px;
+  font-family: fantasy;
+  font-style: italic;
+  background: powderblue;
 }
 
 #odipo {
@@ -36,7 +40,36 @@ background: powderblue;
 }
 
 .table {
-font-size: 15px;
-width:100%;
+  font-size: 15px;
+  width: 100%;
+}
+
+.footer {
+  background: #FF5733;
+  background-image: url("../img/HIV.png");
+  background-repeat: no-repeat;
+  background-image: 5em 0;
+  width: 100%;
+  background-image: cover;
+  background-size: 100%;
+  font-size: 15px;
+  padding: 100px;
+}
+
+#african {
+  background-repeat: no-repeat;
+  background-image: 5em 0;
+  width: 200px;
+  float: right;
+  margin-right: -20px;
+  margin-top: 160px;
+}
+
+.LOVE {
+  font-size: 24px;
+  background-color: #fff;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 300px;
 
 }
