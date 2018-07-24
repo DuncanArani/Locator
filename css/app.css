@@ -114,10 +114,13 @@ tr:nth-child(even) {
 }
 #Sigomre{
   margin-left: 230px;
+  background-color: powderblue;
 
 }
 #call{
   margin-left:230px;
+  background-color: powderblue;
+margin-top: 15px;
 
 }
 #cont{
