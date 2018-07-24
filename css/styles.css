@@ -1,0 +1,90 @@
+body{
+
+  background-image: url('../img/hiv1.jpg');
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #006ba6;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+
+
+table {
+
+    border: 2;
+    width: 100%;
+    border: 1px solid #ddd;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+.topnav{
+  padding: 20px;
+  background-color: powderblue;
+}
+.top{
+  padding: 5px;
+}
+.pi{
+  background-color:plum;
+  border-width: 0px;
+}
+
+.pi:hover{
+  color: blue;
+  background-color: white;
+}
+
+#ward1{
+  padding: 50px;
+  background-color: #F5F5F5;
+  margin-top: 30px;
+  border-width: thick;
+}
+#ward2{
+  padding: 50px;
+  background-color: #F5F5F5;
+  margin-top: 30px;
+  border-width: thick;
+  border-color: #FCA7BC;
+}
+#table{
+  width: 100%;
+  padding:0px;
+  border-width: 0px;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px;
+    font-size: 16px;
+    border: none;
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+
+  .dropdown-content a {
+      color: black;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+  }
+#tooltip{
+  float: right;
+  background-color: blue;
+  color: white;
+}
