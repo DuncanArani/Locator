@@ -3,6 +3,7 @@
   background-color: powderblue;
   color: #AF0023;
   text-align: center;
+
 }
 
 #bt {
@@ -18,6 +19,9 @@
   50%{opacity: .1;}
   100%{opacity: 1;}
 
+}
+#h3{
+  font-size:45px;
 }
 
 #clients {
@@ -48,6 +52,7 @@
 #bt-gem {
   float: right;
   margin-bottom: 5px;
+  margin-top: -30px;
   background-color: blue;
   color: white;
   animation: flash linear 3s infinite;
