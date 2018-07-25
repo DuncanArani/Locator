@@ -9,7 +9,7 @@
 100%{opacity:1;}
 }
 
-body {
+#lego {
   font-size: 20px;
   background-color: plum;
   background-image: url("../img/load.jpeg");
