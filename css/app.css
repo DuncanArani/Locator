@@ -198,3 +198,131 @@ font-family: 'Shrikhand', cursive;
 font-family: 'Kreon', serif;
 
 }
+#button {
+  float: right;
+  background-color: #0006C7;
+  animation: flash linear 4s infinite;
+}
+@keyframes flash {
+0%{opacity:1;}
+50%{opacity:.1;}
+100%{opacity:1;}
+}
+
+#lego {
+  font-size: 20px;
+  background-color: plum;
+  background-image: url("../img/load.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+  padding-right: 2px;
+  padding-left: 2px;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  font-family: 'Fredoka One', cursive;
+}
+
+#sonya {
+  font-family: fantasy;
+  text-align: center;
+  background: #FFF;
+  font-family: 'Fredoka One', cursive;
+  font-size: 50px;
+  width:1110px;
+  height: 150px;
+}
+
+.usonga {
+  font-style: italic;
+  font-family: fantasy;
+  font-size: 24px;
+  background: powderblue;
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+  width: 1110px;
+  height: 80px;
+  margin-top: 10px;
+}
+
+.fear {
+  font-size: 24px;
+  font-family: fantasy;
+  font-style: italic;
+  background: powderblue;
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+}
+
+#odipo {
+  background-color: powderblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+#james {
+  background-color: plum;
+}
+
+.table {
+  font-size: 15px;
+  width: 100%;
+}
+#fas{
+  color: blue;
+
+
+}
+.footer {
+  background: plum;
+  background-image: url("../img/HIV.png");
+  background-repeat: no-repeat;
+  background-image: 5em 0;
+  width: 100%;
+  background-image: cover;
+  background-size: 100%;
+  font-size: 15px;
+  padding: 100px;
+  background-size: 300px;
+  height: 100px;
+  font-family: 'Gloria Hallelujah', cursive;
+
+}
+
+#african {
+  background-repeat: no-repeat;
+  background-image: 5em 0;
+  width: 180px;
+  float: right;
+  margin-right: -20px;
+  margin-top: -100px;
+  height: 198px;
+}
+
+.LOVE {
+  font-size: 24px;
+  background-color: #fff;
+  font-weight: bold;
+  font-style: italic;
+  margin-top: 80px;
+  text-align: center;
+  font-stretch: semi-condensed;
+  text-decoration-style: dotted;
+}
+.county {
+  font-size: 15px;
+  background-color: #fff;
+  font-weight: 600;
+}
+
+.row {
+  font-size: 24px;
+  font-weight: bold;
+
+}
+#close {
+  width: 80px;
+  height: 40px;
+  display: block;
+  position: absolute;
+}
