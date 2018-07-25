@@ -1,6 +1,12 @@
 #button {
   float: right;
   background-color: #0006C7;
+  animation: flash linear 1s infinite;
+}
+@keyframes flash {
+0%{opacity:1;}
+50%{opacity:.1;}
+100%{opacity:1;}
 }
 
 body {
