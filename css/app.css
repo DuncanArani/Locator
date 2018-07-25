@@ -4,7 +4,7 @@
 }
 
 body {
-  font-size: 30px;
+  font-size: 20px;
   background-color: plum;
   background-image: url("../img/load.jpeg");
   background-repeat: no-repeat;
@@ -14,12 +14,17 @@ body {
   padding-left: 2px;
   padding-bottom: 2px;
   padding-top: 2px;
+  font-family: 'Fredoka One', cursive;
 }
 
 #sonya {
   font-family: fantasy;
   text-align: center;
   background: #FFF;
+  font-family: 'Fredoka One', cursive;
+  font-size: 50px;
+  width:1110px;
+  height: 150px;
 }
 
 .usonga {
@@ -27,6 +32,11 @@ body {
   font-family: fantasy;
   font-size: 24px;
   background: powderblue;
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
+  width: 1110px;
+  height: 80px;
+  margin-top: 10px;
 }
 
 .fear {
@@ -34,10 +44,14 @@ body {
   font-family: fantasy;
   font-style: italic;
   background: powderblue;
+  font-family: 'Fredoka One', cursive;
+  text-align: center;
 }
 
 #odipo {
   background-color: powderblue;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #james {
@@ -48,9 +62,13 @@ body {
   font-size: 15px;
   width: 100%;
 }
+#fas{
+  color: blue;
+  
 
+}
 .footer {
-  background: #FF5733;
+  background: plum;
   background-image: url("../img/HIV.png");
   background-repeat: no-repeat;
   background-image: 5em 0;
@@ -61,6 +79,8 @@ body {
   padding: 100px;
   background-size: 300px;
   height: 100px;
+  font-family: 'Gloria Hallelujah', cursive;
+
 }
 
 #african {
@@ -80,7 +100,6 @@ body {
   font-style: italic;
   margin-top: 80px;
   text-align: center;
-  font-family: cursive;
   font-stretch: semi-condensed;
   text-decoration-style: dotted;
 }
@@ -88,4 +107,16 @@ body {
   font-size: 15px;
   background-color: #fff;
   font-weight: 600;
+}
+
+.row {
+  font-size: 24px;
+  font-weight: bold;
+
+}
+#close {
+  width: 80px;
+  height: 40px;
+  display: block;
+  position: absolute;
 }
