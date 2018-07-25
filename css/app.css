@@ -3,24 +3,29 @@ body {
 }
 
 #table {
-    width: 95%;
+    width: 100%;
+    
 }
-
 #ward1 {
     padding: 50px;
     margin-right: 20px;
     background-color: powderblue;
     margin-top: 10px;
     margin-left: 100px;
+    margin-right: 20px;
+    padding-right: 120px;
+    padding-left: 120px;
+   
 }
-
 #ward2 {
     padding: 50px;
     margin-right: 20px;
     background-color: powderblue;
     margin-top: 10px;
     margin-left: 100px;
+    margin-right: 20px;
     padding-right: 120px;
+    padding-left: 120px;
 }
 
 #ward3 {
@@ -29,27 +34,38 @@ body {
     background-color: powderblue;
     margin-top: 10px;
     margin-left: 100px;
+    margin-right: 20px;
     padding-right: 120px;
+    padding-left: 120px;
 }
-
-.jumbotron {
-    text-align: left;
-    color: blue;
-    background-image: url("../img/eat-healthy.jpg");
-    background-size: 60%;
-    border-radius: 0%;
-    margin-bottom: 0%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: plum;
-    
-}
-
 #ward4 {
     padding: 50px;
-    margin-right: 20px;
-    background-color: powderblue;
+    background-color:powderblue;
     margin-top: 10px;
     margin-left: 100px;
     padding-right: 120px;
+    padding-left: 120px;
+    margin-right: 20px;
+}
+#table.a{
+  table-layout: auto;
+  width: 180px; 
+}
+#table.b{
+  table-layout: auto;
+  width: 180px; 
+}
+#table.c{
+  table-layout: auto;
+  width: 200px; 
+}
+#table.d{
+  table-layout: fixed;
+    width: 100%;  
+}
+.jumbotron{
+  text-align: center;
+  background-color: plum;
+  color: blue;
+  margin-bottom: 0%;
 }
