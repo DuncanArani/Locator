@@ -1,0 +1,138 @@
+.nav3 {
+  padding: 10px;
+  background-color: powderblue;
+  color: #AF0023;
+  text-align: center;
+
+}
+
+#bt {
+  float: right;
+  margin-top: -40px;
+  margin-bottom: 5px;
+  background-color: blue;
+  color: white;
+  animation: flash linear 3s infinite;
+}
+@keyframes flash{
+  0%{opacity: 1;}
+  50%{opacity: .1;}
+  100%{opacity: 1;}
+
+}
+#h3{
+  font-size:45px;
+}
+
+#clients {
+  background-color: #202020;
+  padding: 20px;
+  color: powderblue;
+}
+
+#img-clients {
+  width: 300px;
+  height: 400px;
+  border-radius: 20px;
+}
+
+.subscripton {
+  font-size: 100px;
+  color: blue;
+  text-align: center;
+  background-image: url('../img/hiv9.jpg');
+}
+
+.top-gem1 {
+  padding: 20px;
+  background-color: plum;
+  color: white;
+}
+
+#bt-gem {
+  float: right;
+  margin-bottom: 5px;
+  margin-top: -30px;
+  background-color: blue;
+  color: white;
+  animation: flash linear 3s infinite;
+}
+@keyframes flash{
+  0%{opacity: 1;}
+  50%{opacity: .1;}
+  100%{opacity: 1;}
+
+}
+
+#gem {
+  background-image: url('../img/med.jpg');
+}
+
+#tablegem {
+  width: 100%;
+  margin-left: 5px;
+}
+
+#row1-gem1 {
+  font-size: 18px;
+  background-color: powderblue;
+  border: 0px;
+  margin-top: 15px;
+  text-align: center;
+  margin-bottom:-20px;
+  margin-right: 20px;
+}
+#row1-gem {
+  font-size: 18px;
+  background-color: powderblue;
+  border: 0px;
+  margin-top: 15px;
+  text-align: center;
+  margin-right:20px;
+}
+#row1-gem2 {
+  font-size: 18px;
+  background-color: powderblue;
+  border: 0px;
+  margin-top: 15px;
+  text-align: center;
+
+}
+
+
+$subscription-form-bg: darken($primary-color, 20%);
+$subscription-form-color: $white;
+$subscription-form-padding: rem-calc(32);
+
+
+.simple-subscription-form {
+  background: $subscription-form-bg;
+  color: $subscription-form-color;
+  padding: $subscription-form-padding;
+  border-radius: $global-radius;
+  align-content: center;
+  align-self: center;
+  color: blue;
+  font-size: 15px;
+  padding: 30px;
+
+  .button {
+    margin-bottom: 0;
+    border-radius: 0 $global-radius $global-radius 0;
+  }
+}
+#icone{
+  font-size: 18px;
+  color: red;
+}
+#animation{
+    animation: flash linear 1s infinite;
+    color: blue;
+    font-size: 18px;
+}
+@keyframes flash{
+  0%{opacity: 1;}
+  50%{opacity: .1;}
+  100%{opacity: 1;}
+
+}
