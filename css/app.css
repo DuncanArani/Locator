@@ -54,9 +54,11 @@ h2{
   margin-top: 20px;
   margin-bottom: 20px;
   margin-left: 120px;
+
 }
 .column{
-
+  /* max-width: 150%;
+      height: auto; */
   padding: 20px;
   margin-left: -150px;
   margin-right: -180px;
@@ -82,7 +84,18 @@ h2{
   height:300px;
   margin-left: 112px;
    border-radius: 50%;
+   /* -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    transform: rotate(90deg); */
+
 }
+
+.img:hover {
+  
+}
+
 #cont{
   background-color: lightblue;
 }
