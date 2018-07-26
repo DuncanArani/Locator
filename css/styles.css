@@ -1,0 +1,129 @@
+body {
+  background-image: url('../img/hiv1.jpg');
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #006ba6;
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+}
+#h1{
+font-size: 50px;
+}
+table {
+  border: 2px;
+  width: 100%;
+  border: 1px solid #ddd;
+  margin: auto;
+}
+
+th,
+td {
+  text-align: left;
+  padding: 8px;
+  
+}
+
+.topnav1 {
+  padding: 30px;
+  background-color: plum;
+}
+
+.top {
+  padding: 5px;
+  background-color: blueviolet;
+}
+
+.pi:hover {
+  color: blue;
+  background-color: white;
+}
+
+#ward1 {
+  padding: 50px;
+  background-color: powderblue;
+  margin-top: 30px;
+  border-width: thick;
+  margin-bottom: -30px;
+}
+
+#ward2 {
+  padding: 30px;
+  background-color: powderblue;
+  margin-top: 30px;
+  border-width: thick;
+  border-color: #FCA7BC;
+  margin-bottom: 90px;
+}
+
+#table {
+  width: 100%;
+  padding: 0px;
+  border-width: 0px;
+  margin: auto;
+}
+
+.dropbtn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 10px;
+  font-size: 16px;
+  border: none;
+}
+
+#tooltip {
+  padding: 5px;
+  float: right;
+  margin-top: -30px;
+  background-color: blue;
+  color: white;
+  animation: flash linear 3s infinite;
+}
+
+@keyframes flash {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: .1;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+#ward3 {
+  padding: 50px;
+  background-color: powderblue;
+  margin-top: 20px;
+  border-width: thick;
+  border-color: #FCA7BC;
+  margin-bottom: 150px;
+}
+
+#ward4 {
+  padding: 50px;
+  background-color: powderblue;
+  margin-top: 20px;
+  border-width: thick;
+  border-color: #FCA7BC;
+  margin-bottom: -60px;
+}
+
+#ward5 {
+  padding: 50px;
+  background-color: powderblue;
+  margin-top: 20px;
+  border-width: thick;
+  border-color: #FCA7BC;
+  margin-bottom: 150px;
+}
+
+#ward6 {
+  padding: 30px;
+  background-color: powderblue;
+  margin-top: 20px;
+  border-width: thick;
+  border-color: #FCA7BC;
+  margin-bottom: 20px;
+}
