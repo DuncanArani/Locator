@@ -28,7 +28,7 @@ wanyakiago@gmail.com
 wycliffkerongo@gmail.com
 duncanarani@gmail.com
 
-GitHub Live Link:https://github.com/DuncanArani/Locator.git
+GitHub Live Link: https://duncanarani.github.io/Locator/
 
 Bugs
 No known bugs as by now.
